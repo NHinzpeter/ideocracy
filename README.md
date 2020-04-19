@@ -7,9 +7,9 @@ Features, die über die Grundfunktionen des Programms hinausgehen:
 <ul>
 <li><b>Rückmeldungen der UI-Flächen</b>: Die Buttons und Attribute reagieren mir Animationen und Tönen auf Hovern und bieten so eine interaktive Nutzererfahrung. Gehoverte Maßnahmen und Ereignisse zeigen die dadurch bewirkten Veränderungen der Attribute an. In der Ressortwahl wird auch angezeigt, wie oft die Ressorts nach wählbar sind, sollten diese nicht mehr wählbar sein, wird ein Signalton abgespielt.</li>
 <li><b>Chronik</b>: Eine Chronik zeigt die bereits geschehenen Ereignisse und verabschiedeten Maßnahmen an. Diese werden innerhalb des Programms in den Chronik-"Container" verschoben. Durch Hovern können auch hier die dadurch bewirkten Veränderungen sichtbar gemacht werden.</li>
-<li>Pause</li>
-<li>Tutorial</li>
-<li>Endscreen</li>
+<li><b>Pause</b>: Die Spielenden können das Spiel über einen Button pausieren</li>
+<li><b>Tutorial</b>: Ein ausführliches Tutorial erklärt alle Elemente des Spiels Stück für Stück beim ersten Mal spielen. Danach kann es erneut über den Hilfe-Button aufgerufen werden.</li>
+<li><b>Endscreen</b>: Nach der letzten Runde wird ein Endscreen angezeigt, der die finalen Punkte und Attributswerte anzeigt. Darüber hinaus können die Spielenden hier die Chronik betrachten und sie Graphen zu den gewählten Maßnahmen anzeigen lassen.</li>
 </ul>
 <br><br>
 <h2>Design</h2>
