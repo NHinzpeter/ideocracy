@@ -1,7 +1,7 @@
 # ideocracy <br>
 <h2>Allgemeines</h2>
-
-<br><br>
+Das Spiel wurde in Unity 2019 entwickelt. Zur Implementation der Funktionen des Spiels wurden Klassen in C# programmiert. <br>
+Die Programmstruktur wurde so flexibel wie möglich gehalten. Hierzu wurde ein weitreichende Objekthierarchie entwickelt, die vor allem die Ansprechbarkeit der Objekte durch Schleifen im Programmcode ermöglichen sollte. Des Weiteren wurden keine Inhalte (Maßnahmen, Events, usw) in den Code geschrieben, sondern in einzelne Objekte in Unity integriert.
 <h2>Features</h2>
 Features, die über die Grundfunktionen des Programms hinausgehen:
 <ul>
