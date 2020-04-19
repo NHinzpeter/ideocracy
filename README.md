@@ -4,7 +4,7 @@ Das Spiel wurde in Unity 2019 entwickelt. Zur Implementation der Funktionen des 
 Die Programmstruktur wurde so flexibel wie möglich gehalten. Hierzu wurde ein weitreichende Objekthierarchie entwickelt, die vor allem die Ansprechbarkeit der Objekte durch Schleifen im Programmcode ermöglichen sollte. Des Weiteren wurden keine Inhalte (Maßnahmen, Events, usw) in den Code geschrieben, sondern in einzelne Objekte in Unity integriert. Entsprechend ließe sich das Programm leicht durch weitere Maßnahmen oder Ereignisse, gegebenenfalls sogar durch weitere Attribute, Ressorts oder Ideologien ergänzen.<br>
 Das Spiel hat eine native Auflösung von 1920x1080px und die UI ist entsprechend darauf ausgerichtet. Davon abweichende Seitenverhältnisse oder höhere Auflösungen werden ebenfalls problemlos unterstützt, niedrigere Auflösungen können hingegen Probleme verusachen.
 <h2>Features</h2>
-Eine grundsätzliche Beschreibung des Spiels und seiner Grundfunktionen können der schriftlichen Ausarbeitung entnommen werden.<br>
+Eine grundsätzliche Beschreibung des Spiels und seiner Grundfunktionen können der schriftlichen Ausarbeitung entnommen werden.<br><br>
 Features, die über die Grundfunktionen des Programms hinausgehen:
 <ul>
 <li><b>Rückmeldungen der UI-Flächen</b>: Die Buttons und Attribute reagieren mir Animationen und Tönen auf Hovern und bieten so eine interaktive Nutzererfahrung. Gehoverte Maßnahmen und Ereignisse zeigen die dadurch bewirkten Veränderungen der Attribute an. In der Ressortwahl wird auch angezeigt, wie oft die Ressorts nach wählbar sind, sollten diese nicht mehr wählbar sein, wird ein Signalton abgespielt.</li>
@@ -17,5 +17,7 @@ Features, die über die Grundfunktionen des Programms hinausgehen:
 Das visuelle Design des Videospiels orientiert sich am frei verfügbaren und kostenlos nutzbaren <a href="https://www.material.io">Material-Design</a> von Google. So wurden die Schriftart und alle verwendeten Icons für das Menü und die Attribute von dort importiert, auch die Farbgebung wurde nach der dort veröffentlichten Richtlinie gestaltet. Für die Implementation der Animationen auf den UI-Elementen wurde das Unity-Plugin <a href="https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361">DoozyUI</a> verwendet. Das Logo wurde selbst entworfen.<br>
 Das auditive Design wurde vollständig selbst erarbeitet, die benötigten Sounds wurden aus der kostenlosen Datenbank <a href="https://www.freesound.org">freesound.org</a> geladen und sind aufgrund der Creative Commons License frei verwendbar. Die Sounds wurden ggf angepasst.<br>
 Der Name <i>ideocracy</i> (stilisiert in Kleinschreibung) ist ein Kofferwort aus dem englischen ‚Ideology‘ und dem griechischen ‚Kratos‘ (‚Macht‘, wie in ‚Democracy‘) und soll eine ideologisch orientierte Führungsweise zum Ausdruck bringen.<br>
+<h2>"Landkarte" durch die Programmhierarchie</h2>
+
 
 Einzelnachweise Icons/Sounds?
