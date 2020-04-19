@@ -11,7 +11,6 @@ Features, die über die Grundfunktionen des Programms hinausgehen:
 <li><b>Tutorial</b>: Ein ausführliches Tutorial erklärt alle Elemente des Spiels Stück für Stück beim ersten Mal spielen. Danach kann es erneut über den Hilfe-Button aufgerufen werden.</li>
 <li><b>Endscreen</b>: Nach der letzten Runde wird ein Endscreen angezeigt, der die finalen Punkte und Attributswerte anzeigt. Darüber hinaus können die Spielenden hier die Chronik betrachten und sie Graphen zu den gewählten Maßnahmen anzeigen lassen.</li>
 </ul>
-<br><br>
 <h2>Design</h2>
 Das visuelle Design des Videospiels orientiert sich am frei verfügbaren und kostenlos nutzbaren <a href="https://www.material.io">Material-Design</a> von Google. So wurden die Schriftart und alle verwendeten Icons für das Menü und die Attribute von dort importiert, auch die Farbgebung wurde nach der dort veröffentlichten Richtlinie gestaltet. Für die Implementation der Animationen auf den UI-Elementen wurde das Unity-Plugin <a href="https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361">DoozyUI</a> verwendet. Das Logo wurde selbst entworfen.<br>
 Das auditive Design wurde vollständig selbst erarbeitet, die benötigten Sounds wurden aus der kostenlosen Datenbank <a href="https://www.freesound.org">freesound.org</a> geladen und sind aufgrund der Creative Commons License frei verwendbar. Die Sounds wurden ggf angepasst.<br>
