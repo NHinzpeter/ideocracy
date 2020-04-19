@@ -5,7 +5,7 @@
 <h2>Features</h2>
 Features, die über die Grundfunktionen des Programms hinausgehen:
 <ul>
-<li><b>Rückmeldungen der UI-Flächen</b>: Die Buttons und Attribute reagieren mir Animationen und Tönen auf Hovern, gehoverte Maßnahmen und Ereignisse zeigen Veränderungen der Attribute an. In der Ressortwahl wird auch angezeigt, wie oft die Ressorts nach wählbar sind, sollten diese nicht mehr wählbar sein, wird ein Signalton abgespielt.</li>
+<li><b>Rückmeldungen der UI-Flächen</b>: Die Buttons und Attribute reagieren mir Animationen und Tönen auf Hovern und bieten so eine interaktive Nutzererfahrung. Gehoverte Maßnahmen und Ereignisse zeigen Veränderungen der Attribute an. In der Ressortwahl wird auch angezeigt, wie oft die Ressorts nach wählbar sind, sollten diese nicht mehr wählbar sein, wird ein Signalton abgespielt.</li>
 <li><b>Chronik</b>: Eine Chronik zeigt die bereits geschehenen Ereignisse und verabschiedeten Maßnahmen an. Diese werden innerhalb des Programs in den Chronik-"Container" verschoben.</li>
 <li>Pause</li>
 <li>Tutorial</li>
