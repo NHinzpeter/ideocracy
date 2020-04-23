@@ -17,7 +17,13 @@ Features, die über die Grundfunktionen des Programms hinausgehen:
 Das visuelle Design des Videospiels orientiert sich am frei verfügbaren und kostenlos nutzbaren <a href="https://www.material.io">Material-Design</a> von Google. So wurden die Schriftart und alle verwendeten Icons für das Menü und die Attribute von dort importiert, auch die Farbgebung wurde nach der dort veröffentlichten Richtlinie gestaltet. Für die Implementation der Animationen auf den UI-Elementen wurde das Unity-Plugin <a href="https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361">DoozyUI</a> verwendet. Das Logo wurde selbst entworfen.<br>
 Das auditive Design wurde vollständig selbst erarbeitet, die benötigten Sounds wurden aus der kostenlosen Datenbank <a href="https://www.freesound.org">freesound.org</a> geladen und sind aufgrund der Creative Commons License frei verwendbar. Die Sounds wurden ggf angepasst.<br>
 Der Name <i>ideocracy</i> (stilisiert in Kleinschreibung) ist ein Kofferwort aus dem englischen ‚Ideology‘ und dem griechischen ‚Kratos‘ (‚Macht‘, wie in ‚Democracy‘) und soll eine ideologisch orientierte Führungsweise zum Ausdruck bringen.<br>
-<h2>"Landkarte" durch die Programmhierarchie</h2>
+<h2>"Landkarte" durch die Unity-Objekthierarchie</h2>
+<b>Aufbau der Objekthierarchie in Unity</b><br>
+Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem Objekt, wie oft dieses jeweils vorkommt, in Runden Klammern anschließend die Erklärung.<br><br>
+
+"Canvas" (Elternobjekt aller UI-Elemente)
+-
+
 
 
 Einzelnachweise Icons/Sounds?
