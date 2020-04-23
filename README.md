@@ -21,7 +21,7 @@ Der Name <i>ideocracy</i> (stilisiert in Kleinschreibung) ist ein Kofferwort aus
 <b>Aufbau der Objekthierarchie in Unity</b><br>
 Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem Objekt, wie oft dieses jeweils vorkommt, in Runden Klammern anschließend die Erklärung.<br><br>
 
-"Canvas" (Elternobjekt aller UI-Elemente)
+"Canvas" (Elternobjekt aller UI-Elemente)<br>
 -
 
 
