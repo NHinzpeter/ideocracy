@@ -31,4 +31,4 @@ Einzelnachweise Icons/Sounds?
 
 <h2>Screenshots</h2>
 Ressortwahl:<br>
-<img source="./Screenshots/ideocracy screenshot 1">
+<img src="./Screenshots/ideocracy screenshot 1">
