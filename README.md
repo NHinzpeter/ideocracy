@@ -31,20 +31,20 @@ Einzelnachweise Icons/Sounds?
 
 <h2>Screenshots</h2>
 Ressortwahl:<br>
-<img src="./Screenshots/ideocracy screenshot 1.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 1.PNG"><br>
 Maßnahmenwahl:<br>
-<img src="./Screenshots/ideocracy screenshot 2.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 2.PNG"><br>
 Maßnahmenwahl (mit Ereignis):<br>
-<img src="./Screenshots/ideocracy screenshot 3.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 3.PNG"><br>
 Pausenmenü:<br>
-<img src="./Screenshots/ideocracy screenshot 4.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 4.PNG"><br>
 Chronik:<br>
-<img src="./Screenshots/ideocracy screenshot 5.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 5.PNG"><br>
 Tutorial:<br>
-<img src="./Screenshots/ideocracy screenshot 6.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 6.PNG"><br>
 Endscreen Punkteübersicht:<br>
-<img src="./Screenshots/ideocracy screenshot 7.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 7.PNG"><br>
 Endscreen Chronik:<br>
-<img src="./Screenshots/ideocracy screenshot 8.PNG"><br><br>
+<img src="./Screenshots/ideocracy screenshot 8.PNG"><br>
 Endscreen grafische Zusammenfassung:<br>
 <img src="./Screenshots/ideocracy screenshot 9.PNG">
