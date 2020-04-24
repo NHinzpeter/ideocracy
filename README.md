@@ -20,10 +20,10 @@ Das auditive Design wurde vollständig selbst erarbeitet, die benötigten Sounds
 Der Name <i>ideocracy</i> (stilisiert in Kleinschreibung) ist ein Kofferwort aus dem englischen ‚Ideology‘ und dem griechischen ‚Kratos‘ (‚Macht‘, wie in ‚Democracy‘) und soll eine ideologisch orientierte Führungsweise zum Ausdruck bringen.<br>
 <h2>"Landkarte" durch die Unity-Objekthierarchie</h2>
 <b>Aufbau der Objekthierarchie in Unity</b><br>
-Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem Objekt, wie oft dieses jeweils vorkommt, in Runden Klammern anschließend die Erklärung.<br>
+Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem Objekt, wie oft dieses jeweils vorkommt, in Runden Klammern anschließend die Erklärung.<br><br>
 
 "Canvas" (Elternobjekt aller UI-Elemente)<br>
--
+-akd
 
 
 
