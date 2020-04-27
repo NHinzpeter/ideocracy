@@ -3,7 +3,8 @@
 Das Spiel wurde in Unity 2019 entwickelt. Zur Implementation der Funktionen des Spiels wurden Klassen in C# programmiert. <br>
 Die Programmstruktur wurde so flexibel wie möglich gehalten. Hierzu wurde ein weitreichende Objekthierarchie entwickelt, die vor allem die Ansprechbarkeit der Objekte durch Schleifen im Programmcode ermöglichen sollte. Des Weiteren wurden keine Inhalte (Maßnahmen, Events, usw) in den Code geschrieben, sondern in einzelne Objekte in Unity integriert. Entsprechend ließe sich das Programm leicht durch weitere Maßnahmen oder Ereignisse, gegebenenfalls sogar durch weitere Attribute, Ressorts oder Ideologien ergänzen.<br>
 Das Spiel hat eine native Auflösung von 1920x1080px und die UI ist entsprechend darauf ausgerichtet. Davon abweichende Seitenverhältnisse oder höhere Auflösungen werden ebenfalls problemlos unterstützt, niedrigere Auflösungen können hingegen Probleme in der Darstellung (Überschneidung von UI usw) verusachen.<br>
-Die MacOS-Version des Spiels ist aufgrund mangelnder Hardware (und der damit einhergehenden mangelnden Zugänglichkeit des Betriebssystems) ungetestet, entsprechend könnten Probleme mit der Darstellung oder der Funktion des Spiels existieren. Für die Bewertung wird deshalb darum gebeten, als Referenz die Version für Windows zu nutzen.
+Die MacOS-Version des Spiels ist aufgrund mangelnder Hardware (und der damit einhergehenden mangelnden Zugänglichkeit des Betriebssystems) ungetestet, entsprechend könnten Probleme mit der Darstellung oder der Funktion des Spiels existieren. Für die Bewertung wird deshalb darum gebeten, als Referenz die Version für Windows zu nutzen.<br>
+<b>Download Links</b>
 <h2>Features</h2>
 Eine grundsätzliche Beschreibung des Spiels und seiner Grundfunktionen können der schriftlichen Ausarbeitung entnommen werden.<br><br>
 Features, die über die Grundfunktionen des Programms hinausgehen:
