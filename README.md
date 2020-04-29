@@ -122,4 +122,12 @@ https://fonts.gstatic.com/s/i/materialicons/policy/v4/white-48dp.zip<br>
 https://fonts.gstatic.com/s/i/materialicons/school/v4/white-48dp.zip<br>
 https://fonts.gstatic.com/s/i/materialicons/show_chart/v4/white-48dp.zip<br>
 https://fonts.gstatic.com/s/i/materialicons/stars/v4/white-48dp.zip<br>
-https://fonts.gstatic.com/s/i/materialicons/work/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/work/v4/white-48dp.zip<br><br>
+<b>Sounds:</b><br>
+https://freesound.org/people/broumbroum/sounds/50561/<br>
+https://freesound.org/people/bigjoedrummer/sounds/77305/<br>
+https://freesound.org/people/deleted_user_3544904/sounds/212682/<br>
+https://freesound.org/people/deadsillyrabbit/sounds/251390/<br>
+https://freesound.org/people/morrisjm/sounds/268756/ (bearbeitet)<br>
+https://freesound.org/people/DesignDean/sounds/397317/ (bearbeitet)<br>
+https://freesound.org/people/LorenzoTheGreat/sounds/417794/<br>
