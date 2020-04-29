@@ -24,18 +24,18 @@ Der Name <i>ideocracy</i> (stilisiert in Kleinschreibung) ist ein Kofferwort aus
 Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem Objekt, wie oft dieses jeweils vorkommt, in Runden Klammern anschließend die Erklärung.<br><br>
 
 "Canvas" (Elternobjekt aller UI-Elemente)<br>
--Ressortwahl (beinhaltet die 6 Buttons der Ressortwahl)
---[6x]Ressort (der Ressort-Button)
----Massnahmen (beinhaltet die Maßnahmen nach Ideologie)
-----[3x]Ideologie (beinhaltet die Maßnahmen die einzelnen Maßnahmen
------[3-9x]Maßnahme (Objekt, das alle Beschreibung und Werte der Maßnahme beinhaltet)
----Text (Beschriftung des Ressortbuttons)
----Ressortrunden (beinhaltet die blauen Kästchen, die anzeigen, wie oft das Ressort noch gewählt werden kann)
--Massnahmenwahl (beinhaltet die 3 Buttons der Maßnahmenwahl
---[3x]Ideologie (Button für die Maßnahme der jeweiligen Ideologie
----Text (Beschriftung des Buttons)
--Massnahmenwahl2 (beinhaltet die Überschriften für die Maßnahmenwahl)
---[4x]Überschrift (Überschriften für die drei Ideologien und das gewählte Ressort)
+-Ressortwahl (beinhaltet die 6 Buttons der Ressortwahl)<br>
+--[6x]Ressort (der Ressort-Button)<br>
+---Massnahmen (beinhaltet die Maßnahmen nach Ideologie)<br>
+----[3x]Ideologie (beinhaltet die Maßnahmen die einzelnen Maßnahmen<br>
+-----[3-9x]Maßnahme (Objekt, das alle Beschreibung und Werte der Maßnahme beinhaltet)<br>
+---Text (Beschriftung des Ressortbuttons)<br>
+---Ressortrunden (beinhaltet die blauen Kästchen, die anzeigen, wie oft das Ressort noch gewählt werden kann)<br>
+-Massnahmenwahl (beinhaltet die 3 Buttons der Maßnahmenwahl<br>
+--[3x]Ideologie (Button für die Maßnahme der jeweiligen Ideologie<br>
+---Text (Beschriftung des Buttons)<br>
+-Massnahmenwahl2 (beinhaltet die Überschriften für die Maßnahmenwahl)<br>
+--[4x]Überschrift (Überschriften für die drei Ideologien und das gewählte Ressort)<br>
 
 
 
