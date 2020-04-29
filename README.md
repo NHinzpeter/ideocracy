@@ -39,14 +39,20 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 -"Rundenanzeige" (Rundenanzeige unten rechts)<br>
 -"Endscreen" (beinhaltet alle Elemente für den Endscreen)<br>
 --"Endscreen Hintergrund" (grauer Hintergrund des Endscreens, aus Layout-Gründen auch Elternobjekt von Teilen der UI-Elemente)<br>
----"Sidebar" (beinhaltet die Buttons am Rand des Endscreens, mit denen zwischen den Reitern umgeschaltet wird)
-----[3x]Button (Buttons am Rand des Endscreens, mit denen zwischen den Reitern umgeschaltet wird)
-----[3x]Image (Icons auf den Buttons, wegen Animationen getrennt von den Buttons)
----"Endpunkte" (zeigt den Endpunktestand an)
----"IdeologienStats" (beinhaltet die Statistiken, wie oft Maßnahmen der jeweiligen Ideologien gewählt wurden)
-----[3x]Ideologie (für jede Ideologie ein 'Balken')
------[4x]Balken-Elemente (Text, Hintergrund, Name und Balken für die Statistik)
----
+---"Sidebar" (beinhaltet die Buttons am Rand des Endscreens, mit denen zwischen den Reitern umgeschaltet wird)<br>
+----[3x]Button (Buttons am Rand des Endscreens, mit denen zwischen den Reitern umgeschaltet wird)<br>
+----[3x]Image (Icons auf den Buttons, wegen Animationen getrennt von den Buttons)<br>
+---"Endpunkte" (zeigt den Endpunktestand an)<br>
+---"IdeologienStats" (beinhaltet die Statistiken, wie oft Maßnahmen der jeweiligen Ideologien gewählt wurden)<br>
+----[3x]Ideologie (für jede Ideologie ein 'Balken')<br>
+-----[4x]Balken-Elemente (Text, Hintergrund, Name und Balken für die Statistik)<br>
+---[4x]StatsText (Überschriften, die bei den Statistiken angezeigt werden)<br>
+--"EndscreenText" (Überschrift im Endscreen)<br>
+--"EndscreenButtons" (beinhaltet die eckigen Buttons im Endscreen)<br>
+---[2x]EndscreenButton (Buttons für Neustart und Verlassen)<br>
+-"Curtain" (grauer 'Vorhang' im Pausen- und Chronikmenü, beinhaltet alle Elemente für diese Menüs)<br>
+--
+
 
 
 
