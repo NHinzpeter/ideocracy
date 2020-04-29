@@ -79,7 +79,12 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 ---"Image" (Bild auf Button)<br>
 ---"Hitbox" (Hitbox als Referenz für Hovern)<br>
 -"Tutorial" (beinhaltet alle Objekte für das Tutorial)<br>
-
+--[6x]TutorialAbschnitt (beinhaltet die UI-Elemente für jeden Abschnitt des Tutorials)<br>
+---"TutorialHintergrund" (dunkelgrauer Hintergrund des Tutorial-Fensters)<br>
+---"Ueberschrift" (Überschrift des Tutorial-Abschnitts)<br>
+---"Inhalt" (Text, der im Tutorial-Abschnitt angezeigt wird)<br>
+---[1-2x]Button (Button zur Bestätigung des Tutorial-Abschnitts)<br>
+-[2x]Konfetti (Partikel-System für das Konfetti im Endscreen)<br>
 
 
 
