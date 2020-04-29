@@ -51,7 +51,12 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 --"EndscreenButtons" (beinhaltet die eckigen Buttons im Endscreen)<br>
 ---[2x]EndscreenButton (Buttons für Neustart und Verlassen)<br>
 -"Curtain" (grauer 'Vorhang' im Pausen- und Chronikmenü, beinhaltet alle Elemente für diese Menüs)<br>
---
+--"Text" (Überschrift für die Chronik)<br>
+--"Scroll View" (Scrollbares Fenster, das die Chronik beinhaltet)<br>
+---"Viewport" (Sichtbarer Bereich des Fensters)<br>
+----"Content" (beinhaltet die einzelnen Maßnahmen und Events der Chronik)<br>
+-----[Anzahl dynamisch]"HistoryMassnahme" (beinhaltet eine konkrete Maßnahme oder ein Event der Chronik, wird für jede/s neue kopiert)<br>
+
 
 
 
