@@ -86,10 +86,6 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 ---[1-2x]Button (Button zur Bestätigung des Tutorial-Abschnitts)<br>
 -[2x]Konfetti (Partikel-System für das Konfetti im Endscreen)<br>
 
-
-
-Einzelnachweise Icons/Sounds?
-
 <h2>Screenshots</h2>
 Ressortwahl:<br>
 <img src="./Screenshots/ideocracy screenshot 1.PNG"><br>
@@ -108,4 +104,22 @@ Endscreen Punkteübersicht:<br>
 Endscreen Chronik:<br>
 <img src="./Screenshots/ideocracy screenshot 8.PNG"><br>
 Endscreen grafische Zusammenfassung:<br>
-<img src="./Screenshots/ideocracy screenshot 9.PNG">
+<img src="./Screenshots/ideocracy screenshot 9.PNG"><br>
+
+<h2>Einzelnachweise Icons/Sounds</h2>
+<b>Icons:</b><br>
+https://fonts.gstatic.com/s/i/materialicons/accessible/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/child_friendly/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/eco/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/euro_symbol/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/help/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/history/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/insert_chart/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/lock/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/network_check/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/pause_circle_filled/v5/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/policy/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/school/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/show_chart/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/stars/v4/white-48dp.zip<br>
+https://fonts.gstatic.com/s/i/materialicons/work/v4/white-48dp.zip<br>
