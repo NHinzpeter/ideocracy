@@ -71,6 +71,14 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 --[10x]Ereignis (beinhaltet Beschreibung und Werte des Ereignis, wird nach Auslösung in Maßnahmen-Container verschoben)<br>
 -"SpecialEvents" (beinhaltet die normalen Ereignisse)<br>
 --[10x]Spezialereignis (beinhaltet Beschreibung und Werte des Spezialereignis, wird nach Auslösung in Maßnahmen-Container verschoben)<br>
+-"MenuUI" (beinhaltet die Buttons für das Menü oben links)<br>
+--"MassnahmenHistory" (Button für die Chronik)<br>
+---"Image" (Bild auf Button)<br>
+---"MassnahmenContainer" (Maßnahmen-Container, in den nach und nach die ausgelösten Ereignisse und gewählten Maßnahmen verschoben werden)<br>
+--[2x]MenuButton (Buttons für Pause und Tutorial)<br>
+---"Image" (Bild auf Button)<br>
+---"Hitbox" (Hitbox als Referenz für Hovern)<br>
+-"Tutorial" (beinhaltet alle Objekte für das Tutorial)<br>
 
 
 
