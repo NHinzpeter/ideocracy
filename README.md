@@ -28,15 +28,15 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 --[6x]Ressort (der Ressort-Button)<br>
 ---"Massnahmen" (beinhaltet die Maßnahmen nach Ideologie)<br>
 ----[3x]Ideologie (beinhaltet die Maßnahmen die einzelnen Maßnahmen<br>
------[3-9x]Maßnahme (Objekt, das alle Beschreibung und Werte der Maßnahme beinhaltet)<br>
+-----[3-9x]Maßnahme (Objekt, das alle Beschreibung und Werte der Maßnahme beinhaltet, wird nach Auswahl in Maßnahmen-Container verschoben)<br>
 ---"Text" (Beschriftung des Ressortbuttons)<br>
----"Ressortrunden" (beinhaltet die blauen Kästchen, die anzeigen, wie oft das Ressort noch gewählt werden kann)<br><br>
+---"Ressortrunden" (beinhaltet die blauen Kästchen, die anzeigen, wie oft das Ressort noch gewählt werden kann)<br>
 -"Massnahmenwahl" (beinhaltet die 3 Buttons der Maßnahmenwahl<br>
 --[3x]Ideologie (Button für die Maßnahme der jeweiligen Ideologie<br>
----"Text" (Beschriftung des Buttons)<br><br>
+---"Text" (Beschriftung des Buttons)<br>
 -"Massnahmenwahl2" (beinhaltet die Überschriften für die Maßnahmenwahl)<br>
---[4x]Überschrift (Überschriften für die drei Ideologien und das gewählte Ressort)<br><br>
--"Rundenanzeige" (Rundenanzeige unten rechts)<br><br>
+--[4x]Überschrift (Überschriften für die drei Ideologien und das gewählte Ressort)<br>
+-"Rundenanzeige" (Rundenanzeige unten rechts)<br>
 -"Endscreen" (beinhaltet alle Elemente für den Endscreen)<br>
 --"Endscreen Hintergrund" (grauer Hintergrund des Endscreens, aus Layout-Gründen auch Elternobjekt von Teilen der UI-Elemente)<br>
 ---"Sidebar" (beinhaltet die Buttons am Rand des Endscreens, mit denen zwischen den Reitern umgeschaltet wird)<br>
@@ -49,7 +49,7 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 ---[4x]StatsText (Überschriften, die bei den Statistiken angezeigt werden)<br>
 --"EndscreenText" (Überschrift im Endscreen)<br>
 --"EndscreenButtons" (beinhaltet die eckigen Buttons im Endscreen)<br>
----[2x]EndscreenButton (Buttons für Neustart und Verlassen)<br><br>
+---[2x]EndscreenButton (Buttons für Neustart und Verlassen)<br>
 -"Curtain" (grauer 'Vorhang' im Pausen- und Chronikmenü, beinhaltet alle Elemente für diese Menüs)<br>
 --"Text" (Überschrift für die Chronik)<br>
 --"Scroll View" (Scrollbares Fenster, das die Chronik beinhaltet)<br>
@@ -57,8 +57,20 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 ----"Content" (beinhaltet die einzelnen Maßnahmen und Events der Chronik)<br>
 -----[Anzahl dynamisch]"HistoryMassnahme" (beinhaltet eine konkrete Maßnahme oder ein Event der Chronik, wird für jede/s neue kopiert)<br>
 ------[3x]Text (Ressortname, Ideologie und Beschreibung der Maßnahme/des Events)<br>
---[3x]PausenmenüButton (Buttons für das Pausenmenü: Fortsetzen, Neustart, Verlassen)<br><br>
--"
+--[3x]PausenmenüButton (Buttons für das Pausenmenü: Fortsetzen, Neustart, Verlassen)<br>
+-"Attribute Hintergrund" (dunkelgrauer Hintergrund der Attribute-Anzeige)<br>
+-"Attributswerte" (beinhaltet die zehn Attribute und ihre Werte)<br>
+--[10x] Attribut (die Attribute wie Finanzen oder Innere Sicherheit)<br>
+---[5x]Image (Hintergrund, blauer Balken, Balken für Veränderungen, Icon und 'Hitbox' als Referenz für Hovern)<br>
+---Text (Name des Attributs, der beim Hovern angezeigt wird)<br>
+-"Textlauf" (beinhaltet die Elemente für den Textlauf am unteren Rand des Bildschirms)<br>
+--"Image" (Hintergrund des Textlaufs)<br>
+--[Anzahl dynamisch]"TextlaufText" (Text, der das Ereignis anzeigt. Kopiert sich für durchgängigen Textlauf)<br>
+--"Hitbox" (Referenz für Hovern über den Textlauf)<br>
+-"Events" (beinhaltet die normalen Ereignisse)<br>
+--[10x]Ereignis (beinhaltet Beschreibung und Werte des Ereignis, wird nach Auslösung in Maßnahmen-Container verschoben)<br>
+-"SpecialEvents" (beinhaltet die normalen Ereignisse)<br>
+--[10x]Spezialereignis (beinhaltet Beschreibung und Werte des Spezialereignis, wird nach Auslösung in Maßnahmen-Container verschoben)<br>
 
 
 
