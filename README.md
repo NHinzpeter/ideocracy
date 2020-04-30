@@ -29,7 +29,7 @@ Hiearchie Ebenen sind durch "-" gekennzeichnet, ggf in eckigen Klammern vor dem 
 -"Ressortwahl" (beinhaltet die 6 Buttons der Ressortwahl)<br>
 --[6x]Ressort (der Ressort-Button)<br>
 ---"Massnahmen" (beinhaltet die Maßnahmen nach Ideologie)<br>
-----[3x]Ideologie (beinhaltet die Maßnahmen die einzelnen Maßnahmen)<br>
+----[3x]Ideologie (beinhaltet die einzelnen Maßnahmen)<br>
 -----[3-9x]Maßnahme (Objekt, das alle Beschreibung und Werte der Maßnahme beinhaltet, wird nach Auswahl in Maßnahmen-Container verschoben)<br>
 ---"Text" (Beschriftung des Ressortbuttons)<br>
 ---"Ressortrunden" (beinhaltet die blauen Kästchen, die anzeigen, wie oft das Ressort noch gewählt werden kann)<br>
